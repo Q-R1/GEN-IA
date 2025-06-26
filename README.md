@@ -1,2 +1,2 @@
-# GEN_AI
+# GEN-IA
 Educación Básica 
