@@ -1,2 +1,2 @@
-# AI_GEN
-AI_GEN en educación básica 
+# GEN_AI
+Educación Básica 
