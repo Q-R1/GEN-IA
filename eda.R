@@ -21,7 +21,7 @@ theme_gtsummary_compact()  # Estilo compacto para tablas
 
 #theme_gtsummary_language(language = "es")   # Idioma español
 
-theme_gtsummary_journal("Jama")           # Estilo de revista QJEconomics
+theme_gtsummary_journal("nejm")           # Estilo de revista QJEconomics
 
 estudiantes %>%
   # 1. Filter NA in the AI variable (assuming column 2)
